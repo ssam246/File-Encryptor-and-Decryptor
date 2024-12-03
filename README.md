@@ -167,7 +167,6 @@ Contributions are welcome! Here’s how you can contribute:
 ## **License**
 
 This project is licensed under the **MIT License**.  
-Refer to the [LICENSE](LICENSE.md) file for more details.
 
 ---
 
