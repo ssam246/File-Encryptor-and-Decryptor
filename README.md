@@ -174,6 +174,3 @@ This project is licensed under the **MIT License**.
 
 This tool is intended for **educational purposes only**. The XOR encryption used is not secure for protecting sensitive information. For strong encryption, consider using modern cryptographic libraries like `crypto`.
 
----
-
-### **Happy Encrypting and Decrypting! 🚀**
